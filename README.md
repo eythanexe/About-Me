@@ -38,6 +38,8 @@
 
 [![esx_blips](https://github-readme-stats.vercel.app/api/pin/?username=eythanexe&repo=esx_blips&show_owner=true&theme=tokyonight)](https://github.com/eythanexe/esx_blips)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eythanexe&layout=compact&theme=tokyonight)
+
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua

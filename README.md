@@ -34,6 +34,8 @@
     </a>
 </p>
 
+![Eythan's github stats](https://github-readme-stats.vercel.app/api?username=eythanexe&show_icons=true&theme=tokyonight)
+
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua

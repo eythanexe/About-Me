@@ -43,7 +43,7 @@
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua
-  - JavaScript (Learning)
+  - JavaScript
   - HTML
   - CSS   
 - **Databases:** 
@@ -55,6 +55,7 @@
   - And More
 
 ## **What I'm Working On:**
+- Learning more **JavaScript**
 - Learning **Discord.js**
 
 ## **Contact Me on Discord for Any Questions:**

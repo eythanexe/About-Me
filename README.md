@@ -43,7 +43,7 @@
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua
-  - JavaScript
+  - JavaScript (Learning)
   - HTML
   - CSS   
 - **Databases:** 

@@ -6,6 +6,8 @@
 - **Country:** Israel  
 - **Discord:** [eythan.exe](https://discord.com/users/868540978871566387)   
 
+https://github-readme-stats.vercel.app/api?username=eythanexe&show_icons=true&theme=tokyonight
+
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua

@@ -36,6 +36,8 @@
 
 ![Eythan's github stats](https://github-readme-stats.vercel.app/api?username=eythanexe&show_icons=true&theme=tokyonight)
 
+[![esx_blips](https://github-readme-stats.vercel.app/api/pin/?username=eythanexe&repo=esx_blips&show_owner=true&theme=tokyonight)](https://github.com/eythanexe/esx_blips)
+
 ## **Currently Developing:**  
 - **Languages:** 
   - Lua

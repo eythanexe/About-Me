@@ -2,7 +2,7 @@
 
 ## **Information:**
 
-- **Name:** eythan   
+- **Name:** Eythan   
 - **Country:** Israel  
 - **Discord:** [eythan.exe](https://discord.com/users/868540978871566387)   
 
@@ -52,7 +52,7 @@
 - **Special Interests:** 
   - Fivem Development
   - Web Development
-  - And More
+  - Learning Bots Development
 
 ## **What I'm Working On:**
 - Learning more **JavaScript**

@@ -58,5 +58,5 @@
 - Learning more **JavaScript**
 - Learning **Discord.js**
 
-## **Contact Me on Discord for Any Questions:**
+## **Contact:**
 - Feel free to send me a message on Discord if you have any questions.
